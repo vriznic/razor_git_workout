@@ -6,7 +6,7 @@ jako pozeljnom, stavkom.
 
 Pa da krenemo!
 
-Za pocetak **klonirajte** ovaj repozitorijum na svoje lokalne masine.
+Za pocetak **klonirajte** ovaj repozitorijum na svoje lokalne masine. Upalite konzole i navigirajte do nekog foldera za brljanje po kodu.
 Na **GitHub-u** se to najlakse radi tako sto kopirate adresu sa desne strane i pejstujete je na komandnu liniju:
 
 > git clone \<adresa\>
@@ -14,3 +14,4 @@ Na **GitHub-u** se to najlakse radi tako sto kopirate adresu sa desne strane i p
 sto je, u ovom konkretnom slucaju:
 
 >git clone https://github.com/vriznic/razor_git_workout.git
+
