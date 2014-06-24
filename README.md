@@ -1,6 +1,4 @@
-razor_git_workout
-=================
-
+# RAZOR GIT WORKOUT #
 Dobro doshli moji mali, omrshaveli jadnichci!
 
 Ovaj repo ce vam pomoci da postanete sposobni **Git Gurui** i time oplodite svoje CVjeve jos jednom,
