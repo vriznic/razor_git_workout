@@ -7,9 +7,7 @@ jako pozeljnom, stavkom.
 Pa da krenemo!
 
 Za pocetak **klonirajte** ovaj repozitorijum na svoje lokalne masine.
-Na **GitHub-u** se to najlakse radi tako sto kopirate adresu sa desne strane ---->
-
-i pejstujete je na komandnu liniju:
+Na **GitHub-u** se to najlakse radi tako sto kopirate adresu sa desne strane i pejstujete je na komandnu liniju:
 
 > git clone \<adresa\>
 
